@@ -4,7 +4,7 @@ A robust Python-based utility designed to convert Microsoft SQL Server (T-SQL) d
 
 ## Overview
 
-The `translate.py` script automates the migration of legacy T-SQL databases (such as `BWUI_TWMS`) to PostgreSQL[cite: 2]. Utilizing a memory-optimized streaming architecture, it efficiently processes large SQL dump files while managing edge cases like Unicode literals, administrative commands, and proprietary system functions[cite: 2].
+The `translate.py` script automates the migration of legacy T-SQL databases to PostgreSQL[cite: 2]. Utilizing a memory-optimized streaming architecture, it efficiently processes large SQL dump files while managing edge cases like Unicode literals, administrative commands, and proprietary system functions[cite: 2].
 
 ---
 
